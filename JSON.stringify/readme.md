@@ -224,3 +224,4 @@ const alsoHuge = BigInt(9007199254740991)
 console.log(JSON.stringify(alsoHuge))
 // TypeError: Do not know how to serialize a BigInt
 ```
+1
